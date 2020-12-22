@@ -1,0 +1,292 @@
+Visit a maim page
+Starting add new count
+New count added
+Visit a maim page
+Watching transactions of count with id: 3
+Starting add transaction to count with id: 3
+Transaction to count with id: 3 successfully added
+Watching transactions of count with id: 3
+Starting add transaction to count with id: 3
+Transaction to count with id: 3 successfully added
+Watching transactions of count with id: 3
+Transaction with id: 8 successfully deleted
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Starting add new count
+Visit a maim page
+Visit a maim page
+Starting add new count
+Visit a maim page
+Visit a maim page
+Starting add new count
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Starting add new count
+Visit a maim page
+Starting add new count
+Visit a maim page
+Watching transactions of count with id: 1
+Count with id: 1successfully closed
+Visit a maim page
+Starting add new count
+Visit a maim page
+Watching transactions of count with id: 3
+Visit a maim page
+Starting add new count
+Visit a maim page
+Watching transactions of count with id: 6
+Starting add transaction to count with id: 6
+Visit a maim page
+Starting add new count
+Visit a maim page
+Watching transactions of count with id: 3
+Transaction with id: 7 successfully deleted
+Visit a maim page
+Watching transactions of count with id: 3
+Starting add transaction to count with id: 3
+Visit a maim page
+Watching transactions of count with id: 3
+Starting add transaction to count with id: 3
+Visit a maim page
+Starting add new count
+New count added
+Visit a maim page
+Watching transactions of count with id: 9
+Starting add transaction to count with id: 9
+Transaction to count with id: 9 successfully added
+Watching transactions of count with id: 9
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Watching transactions of count with id: 6
+Visit a maim page
+Watching transactions of count with id: 9
+Visit a maim page
+Watching transactions of count with id: 3
+Count with id: 3successfully closed
+Visit a maim page
+Watching transactions of count with id: 4
+Count with id: 4successfully closed
+Visit a maim page
+Watching transactions of count with id: 5
+Count with id: 5successfully closed
+Visit a maim page
+Watching transactions of count with id: 6
+Count with id: 6successfully closed
+Visit a maim page
+Watching transactions of count with id: 9
+Count with id: 9successfully closed
+Visit a maim page
+Starting add new count
+New count added
+Visit a maim page
+Starting add new count
+New count added
+Visit a maim page
+Starting add new count
+New count added
+Visit a maim page
+Watching transactions of count with id: 13
+Starting add transaction to count with id: 13
+Transaction to count with id: 13 successfully added
+Watching transactions of count with id: 13
+Visit a maim page
+Watching transactions of count with id: 11
+Starting add transaction to count with id: 11
+Transaction to count with id: 11 successfully added
+Watching transactions of count with id: 11
+Starting add transaction to count with id: 11
+Transaction to count with id: 11 successfully added
+Watching transactions of count with id: 11
+Starting add transaction to count with id: 11
+Transaction to count with id: 11 successfully added
+Watching transactions of count with id: 11
+Starting add transaction to count with id: 11
+Transaction to count with id: 11 successfully added
+Watching transactions of count with id: 11
+Starting add transaction to count with id: 11
+Transaction to count with id: 11 successfully added
+Watching transactions of count with id: 11
+Visit a maim page
+Watching transactions of count with id: 12
+Starting add transaction to count with id: 12
+Transaction to count with id: 12 successfully added
+Watching transactions of count with id: 12
+Visit a maim page
+Watching transactions of count with id: 11
+Watching transactions of count with id: 11
+Transaction with id: 15 successfully deleted
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Start changing comment to count with id: 11
+Visit a maim page
+Start changing comment to count with id: 11
+Change comment to count with id: 11
+Visit a maim page
+Start changing comment to count with id: 11
+Change comment to count with id: 11
+Visit a maim page
+Visit a maim page
+Start changing comment to count with id: 11
+Change comment to count with id: 11
+Visit a maim page
+Visit a maim page
+Start changing comment to count with id: 11
+Change comment to count with id: 11
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Starting add new count
+New count added
+Visit a maim page
+Watching transactions of count with id: 1
+Starting add transaction to count with id: 1
+Transaction to count with id: 1 successfully added
+Watching transactions of count with id: 1
+Starting add transaction to count with id: 1
+Transaction to count with id: 1 successfully added
+Watching transactions of count with id: 1
+Starting add transaction to count with id: 1
+Transaction to count with id: 1 successfully added
+Watching transactions of count with id: 1
+Transaction with id: 3 successfully deleted
+Visit a maim page
+Watching transactions of count with id: 1
+Visit a maim page
+Start changing comment to count with id: 1
+Change comment to count with id: 1
+Visit a maim page
+Starting add new count
+New count added
+Visit a maim page
+Starting add new count
+New count added
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Starting add new count
+Visit a maim page
+Watching transactions of count with id: 1
+Visit a maim page
+Start changing comment to count with id: 1
+Change comment to count with id: 1
+Visit a maim page
+Start changing comment to count with id: 1
+Visit a maim page
+Starting add new count
+New count added
+Visit a maim page
+Start changing comment to count with id: 1
+Visit a maim page
+Start changing comment to count with id: 1
+Change comment to count with id: 1
+Change comment to count with id: 1
+Start changing comment to count with id: 1
+Start changing comment to count with id: 1
+Change comment to count with id: 1
+Change comment to count with id: 1
+Change comment to count with id: 1
+Start changing comment to count with id: 1
+Start changing comment to count with id: 1
+Start changing comment to count with id: 1
+Start changing comment to count with id: 1
+Start changing comment to count with id: 1
+Start changing comment to count with id: 1
+Change comment to count with id: 1
+Start changing comment to count with id: 1
+Change comment to count with id: 1
+Start changing comment to count with id: 1
+Change comment to count with id: 1
+Start changing comment to count with id: 1
+Change comment to count with id: 1
+Start changing comment to count with id: 1
+Change comment to count with id: 1
+Visit a maim page
+Start changing comment to count with id: 1
+Change comment to count with id: 1
+Change comment to count with id: 1
+Change comment to count with id: 1
+Start changing comment to count with id: 1
+Start changing comment to count with id: 1
+Visit a maim page
+Starting add new count
+New count added
+Visit a maim page
+Start changing comment to count with id: 1
+Visit a maim page
+Visit a maim page
+Start changing comment to count with id: 11
+Start changing comment to count with id: 11
+Start changing comment to count with id: 11
+Start changing comment to count with id: 11
+Start changing comment to count with id: 11
+Start changing comment to count with id: 1
+Start changing comment to count with id: 11
+Start changing comment to count with id: 11
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Watching transactions of count with id: 1
+Starting add transaction to count with id: 1
+Transaction to count with id: 1 successfully added
+Watching transactions of count with id: 1
+Watching transactions of count with id: 1
+Watching transactions of count with id: 13
+Watching transactions of count with id: 11
+Watching transactions of count with id: 11
+Starting add transaction to count with id: 1
+Watching transactions of count with id: 11
+Starting add transaction to count with id: 1
+Starting add transaction to count with id: 11
+Starting add transaction to count with id: 11
+Starting add new count
+Visit a maim page
+Start changing comment to count with id: 1
+Start changing comment to count with id: 11
+Visit a maim page
+Starting add transaction to count with id: 11
+Watching transactions of count with id: 11
+Visit a maim page
+Starting add new count
+Starting add new count
+Start changing comment to count with id: 1
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Visit a maim page
+Start changing comment to count with id: 11
+Visit a maim page
+Starting add transaction to count with id: 11
+Watching transactions of count with id: 11
+Visit a maim page
+Starting add new count

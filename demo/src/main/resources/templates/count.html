@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Список счетов</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"/>
+    <script src="/main.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+<header th:insert="blocks/header::header"></header>
+<form th:action="@{/logout}" method="post">
+    <input type="submit" value="Sign Out"/>
+</form>
+
+<h1>Счета</h1>
+<div class="container mt-5" id="count-container">
+    <div th:each = "el : ${counts}">
+        <h3 th:text="${el.name}"></h3>
+        <p th:text="${el.comment}"></p>
+        <a th:href="'/count/' + ${el.id}" class="btn btn-warning">Детальнее</a>
+        <br/>
+        <br/>
+        <form th:action="'/count/' + ${el.id} + '/editcomment'" method="get">
+            <button class="btn btn-warning" type="submit">Изменить комментарий</button>
+        </form>
+    </div>
+</div>
+
+<div th:insert="blocks/footer::footer"></div>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Блог сайта</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"/>
+</head>
+<body>
+<header th:insert="blocks/header::header"></header>
+
+<div class="container mt-5 mb-5" >
+    <h1 class="forTest" id="String-ForTest">Добавление счёта</h1>
+    <form action="/count/add" method="post">
+        <input type="text" name="name" placeholder="Введите название счёта" class="form-control"/><br/>
+        <input type="text" name="comment" placeholder="Введите комментарий к счёту" class="form-control"/><br/>
+        <button type="submit" class="btn btn-success">Добавить счёт</button>
+    </form>
+
+</div>
+
+<div th:insert="blocks/footer::footer"></div>
+</body>
+</html>

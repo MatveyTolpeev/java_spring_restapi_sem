@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Детали счёта</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"/>
+</head>
+<body>
+<header th:insert="blocks/header::header"></header>
+
+<div class="container mt-5">
+
+    <div th:each="el : ${transactions}" class="alert alert-info mt-2" id="trans-container">
+        <h3 th:text="${el.sum}"></h3>
+        <form th:action="'/count/' + ${el.id} + '/deletetrans'" method="get">
+            <button class="btn btn-warning" type="submit">Удалить транзакцию</button>
+        </form>
+    </div>
+</div>
+<form th:action="'/count/' + ${id} + '/close'" method="post">
+    <button class="btn btn-warning" type="submit">Закрыть счёт</button>
+</form>
+<br/>
+<h3 th:text="'Общая сумма счёта: ' + ${sum}" ></h3>
+<br/>
+<form th:action="'/count/' + ${id} + '/addtrans'" method="get">
+    <button class="btn btn-warning" type="submit">Добавить транзакцию</button>
+</form>
+
+<div th:insert="blocks/footer::footer"></div>
+</body>
+</html>

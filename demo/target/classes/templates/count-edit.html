@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Блог сайта</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"/>
+
+
+</head>
+<body>
+<header th:insert="blocks/header::header"></header>
+
+<div class="container mt-5 mb-5"  id="change-comment">
+    <h1 class="forTest" id="String-ForTest">Изменение комментария к счёту</h1>
+    <form method="post"  th:attr="data-count-id=${id}">
+        <input type="text" name="comment" placeholder="Введите новый комментарий" class="form-control comment" th:value="${comment}"/><br/>
+        <button type="submit" class="btn btn-success">Изменить</button>
+    </form>
+
+</div>
+
+<div th:insert="blocks/footer::footer"></div>
+</body>
+</html>
